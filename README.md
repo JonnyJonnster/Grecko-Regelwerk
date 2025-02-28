@@ -27,6 +27,6 @@ Des weiteren soll diese Kolonie einen Hauptbahnhof bekommen, der alle Spielerbas
 - alles was nicht claimed und nicht Teil der Fraktionskolonie ist, ist OK zum looten (bitte lasst aber alle create schienen in ruhe)
 - alle Gruppen dürfen sich schon vorab das Modpack ansehen und können sich von mir einweisen lassen (um ein angemessenes Maß an Fairness zu bieten)
 
-Feedback bitte an mich über Discord, oder hier inm Repo 😄
+Feedback bitte an mich über Discord, oder hier im Repo 😄
 
 Fehler bitte immer hier auf Github posten.
