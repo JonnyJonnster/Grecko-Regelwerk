@@ -2,6 +2,7 @@
 ### Das Offizielle Regelwerk für meinen Server
 
 [![curseforge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/available/curseforge_vector.svg)](https://www.curseforge.com/minecraft/modpacks/grecko)
+
 (Kein Modrinth, weil Minecolonies nicht auf Modrinth verfügbar ist)
 
 [![Better Stack Badge](https://uptime.betterstack.com/status-badges/v1/monitor/1t3lk.svg)](https://uptime.betterstack.com/?utm_source=status_badge)
