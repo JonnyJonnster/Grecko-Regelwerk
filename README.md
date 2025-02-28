@@ -12,6 +12,7 @@ Des weiteren soll diese Kolonie einen Hauptbahnhof bekommen, der alle Spielerbas
 - es wird empfohlen eine Kolonie mit Minecolonies zu gründen, oder bei der kommunalen Kolonie mitzumachen.
 
 ## Für PvP Fraktionen:
+- Wenn ihr im PvP mitmachen wollt, schreibt mir bitte auf Discord eine Liste eurer Teammitglieder und ich füge euch der PvP Liste hinzu.
 - die selben Chat und Cheatregeln wie oben
 - ihr müsst alle anderen PvP Fraktionen unter Teams Allied haben und allies block interactions erlauben. 
 - Raiden von Basen nur erlaubt wenn mindestens die Hälfte der anderen Fraktion online sind.
