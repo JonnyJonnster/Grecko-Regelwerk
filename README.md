@@ -20,6 +20,7 @@ Des weiteren soll diese Kolonie einen Hauptbahnhof bekommen, der alle Spielerbas
 ## Für PvP Fraktionen:
 - wenn ihr im PvP mitmachen wollt, schreibt mir bitte auf Discord eine Liste eurer Teammitglieder und ich füge euch der PvP Liste hinzu
 - die PvP Regeln gelten nur unter den Mitgliedern von PvP Fraktionen
+- die Hauptstadt ist eine PvP freie Zone!
 - die selben Chat und Cheatregeln wie oben
 - ihr müsst alle anderen PvP Fraktionen unter Teams Allied haben und allies block interactions erlauben
 - raiden von Basen nur erlaubt wenn mindestens die Hälfte der anderen Fraktion online sind
