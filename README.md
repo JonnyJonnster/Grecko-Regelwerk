@@ -1,5 +1,5 @@
 # Grecko-Regelwerk
-##### Das Offizielle Regelwerk für meinen Server
+### Das Offizielle Regelwerk für meinen Server
 
 In der Nähe vom Spawn wird eine Kolonie gegründet in der sich jeder einbringen kann, was von mir auch persönlich empfohlen wird.
 Des weiteren soll diese Kolonie einen Hauptbahnhof bekommen, der alle Spielerbasen miteinander verbinden kann.
