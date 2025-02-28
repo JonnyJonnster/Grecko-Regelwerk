@@ -31,4 +31,4 @@ Des weiteren soll diese Kolonie einen Hauptbahnhof bekommen, der alle Spielerbas
 
 Feedback bitte an mich über Discord, oder hier im Repo 😄
 
-Fehler bitte immer hier auf Github posten.
+Fehler/Bugs bitte immer hier auf Github posten.
