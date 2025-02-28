@@ -1,6 +1,10 @@
 # Grecko-Regelwerk
 ### Das Offizielle Regelwerk für meinen Server
 
+Curseforge:
+https://www.curseforge.com/minecraft/modpacks/grecko
+(Kein Modrinth, weil Minecolonies nicht auf Modrinth verfügbar ist)
+
 In der Nähe vom Spawn wird eine Kolonie gegründet in der sich jeder einbringen kann, was von mir auch persönlich empfohlen wird.
 Des weiteren soll diese Kolonie einen Hauptbahnhof bekommen, der alle Spielerbasen miteinander verbinden kann.
 ## Für normale Spieler:
