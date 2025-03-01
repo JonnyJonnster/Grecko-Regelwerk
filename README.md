@@ -33,3 +33,6 @@ Des weiteren soll diese Kolonie einen Hauptbahnhof bekommen, der alle Spielerbas
 Feedback bitte an mich über Discord, oder hier im Repo 😄
 
 Fehler/Bugs bitte immer hier auf Github posten.
+
+# Wichtig:
+Ja, mir ist bewusst, dass vor ein paar Tagen das neue Create Update rauskam, und ich werde das Modpack auch entsprechend frühstmöglich updaten, aber ich muss auf ein paar Create addons warten, die selbst noch geupdated werden müssen, habt also ein wenig gedult^^
