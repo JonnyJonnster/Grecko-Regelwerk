@@ -34,5 +34,5 @@ Feedback bitte an mich über Discord, oder hier im Repo 😄
 
 Fehler/Bugs bitte immer hier auf Github posten.
 
-# Wichtig:
-Ja, mir ist bewusst, dass vor ein paar Tagen das neue Create Update rauskam, und ich werde das Modpack auch entsprechend frühstmöglich updaten, aber ich muss auf ein paar Create addons warten, die selbst noch geupdated werden müssen, habt also ein wenig gedult^^
+# Bezüglich Create Update 6:
+Ja, mir ist bewusst, dass vor ein paar Tagen das neue Create Update rauskam, und ich werde das Modpack auch entsprechend frühstmöglich updaten, aber ich muss auf Modupdates warten, da Create ihre Rendering engine umgebaut haben, was die Mod an sich zwar noch performanter, aber auch mit früheren Modversionen inkompatibel macht. Das heißt, dass ich aufn Update für JEDE mod warten muss die irgendeine Art von Create interaktion/integration hat (was in diesem Modpack gefühlt jede zweite ist).
