@@ -8,8 +8,9 @@
 [![Better Stack Badge](https://uptime.betterstack.com/status-badges/v1/monitor/1t3lk.svg)](https://uptime.betterstack.com/?utm_source=status_badge)
 
 ## WICHTIG:
-Wenn grecko.jonnster.de nicht funktioniert hier die "echte" IP als fallback:
+**Wenn grecko.jonnster.de nicht funktioniert hier die "echte" IP als fallback:**
 pelican.jonnster.de:10030
+
 
 In der Nähe vom Spawn wird eine Kolonie gegründet in der sich jeder einbringen kann, was von mir auch persönlich empfohlen wird.
 Des weiteren soll diese Kolonie einen Hauptbahnhof bekommen, der alle Spielerbasen miteinander verbinden kann.
